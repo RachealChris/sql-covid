@@ -1,2 +1,2 @@
-# sql-covid
-Analysis if the COVID dataset in SQL
+# SQL-Covid Data Analysis
+Analysis of the COVID dataset in SQL
